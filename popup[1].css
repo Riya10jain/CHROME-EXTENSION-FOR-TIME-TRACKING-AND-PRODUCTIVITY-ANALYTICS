@@ -1,0 +1,7 @@
+body{font-family: Arial, Helvetica, sans-serif;margin:0;padding:12px;background:#f7f7f7;color:#111}
+.container{width:260px}
+h2{margin:0 0 8px 0;font-size:18px}
+#summary p{margin:6px 0}
+.controls{display:flex;gap:8px;align-items:center}
+button{padding:6px 8px;border-radius:6px;border:1px solid #ccc;background:white;cursor:pointer}
+a#options{font-size:13px;text-decoration:none;color:#0066cc}

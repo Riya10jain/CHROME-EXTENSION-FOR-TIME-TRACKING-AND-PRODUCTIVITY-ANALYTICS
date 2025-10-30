@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>TimeTracker — Popup</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <div class="container">
+    <h2>TimeTracker</h2>
+    <div id="summary">
+      <p><strong>Today</strong></p>
+      <p>Productive: <span id="prod">0</span> min</p>
+      <p>Unproductive: <span id="unprod">0</span> min</p>
+      <p>Neutral: <span id="neutral">0</span> min</p>
+    </div>
+    <div class="controls">
+      <button id="toggle">Pause Tracking</button>
+      <a href="options.html" id="options">Settings</a>
+    </div>
+    <div style="margin-top:8px;font-size:12px;color:#666;">Dev build — data stored locally</div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
