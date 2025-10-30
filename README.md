@@ -11,8 +11,12 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
+OUTPUT: 
 
-DESCRIPTION-
+<img width="1799" height="811" alt="Image" src="https://github.com/user-attachments/assets/2ca27d93-666e-40bb-b3f8-302e9f50b179" />
+
+
+DESCRIPTION:
 
 The Chrome Time Tracker – Productivity Analytics Extension is a lightweight yet powerful browser-based tool designed to monitor and analyze the amount of time a user spends on various websites. The main goal of this extension is to help users improve their productivity by providing clear insights into their online behavior. It automatically records website visit durations, categorizes the data, and displays analytics in an easy-to-understand dashboard.
 
